@@ -1,0 +1,10 @@
+# Xcode
+xcuserdata/
+DerivedData/
+*.xcuserstate
+.DS_Store
+
+# Firebase (credenciales)
+GoogleService-Info.plist
+firebase/seed/serviceAccountKey.json
+firebase/seed/node_modules/

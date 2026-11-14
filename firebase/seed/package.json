@@ -1,0 +1,12 @@
+{
+  "name": "seed-planetas",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "@google-cloud/firestore": "^9.4.1",
+    "firebase-admin": "^14.5.1"
+  }
+}

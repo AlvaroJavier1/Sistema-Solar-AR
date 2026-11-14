@@ -1,0 +1,58 @@
+[
+  {
+    "id": "mercurio", "nombre": "Mercurio", "orden": 1, "tipo": "Planeta rocoso",
+    "descripcion": "El planeta más cercano al Sol y el más pequeño del sistema solar. Casi no tiene atmósfera, por eso sus días son muy calientes y sus noches muy frías.",
+    "curiosidad": "Un año en Mercurio dura solo 88 días terrestres.",
+    "diametroKm": 4879, "distanciaSolMillonesKm": 57.9, "periodoOrbitalDias": 88,
+    "lunas": "0", "temperatura": "≈ 167 °C (media)", "colorHex": "#9E9E9E", "radioVisualM": 0.010
+  },
+  {
+    "id": "venus", "nombre": "Venus", "orden": 2, "tipo": "Planeta rocoso",
+    "descripcion": "Tiene un tamaño parecido al de la Tierra, pero una atmósfera densa de dióxido de carbono que atrapa el calor.",
+    "curiosidad": "Es el planeta más caliente y gira en sentido contrario al de casi todos los demás.",
+    "diametroKm": 12104, "distanciaSolMillonesKm": 108.2, "periodoOrbitalDias": 224.7,
+    "lunas": "0", "temperatura": "≈ 464 °C", "colorHex": "#E0B060", "radioVisualM": 0.018
+  },
+  {
+    "id": "tierra", "nombre": "Tierra", "orden": 3, "tipo": "Planeta rocoso",
+    "descripcion": "Nuestro hogar y el único mundo conocido con vida. Tiene agua líquida en su superficie y una atmósfera rica en nitrógeno y oxígeno.",
+    "curiosidad": "Cerca del 70 % de su superficie está cubierta por agua.",
+    "diametroKm": 12742, "distanciaSolMillonesKm": 149.6, "periodoOrbitalDias": 365.2,
+    "lunas": "1", "temperatura": "≈ 15 °C (media)", "colorHex": "#2E7BD6", "radioVisualM": 0.019
+  },
+  {
+    "id": "marte", "nombre": "Marte", "orden": 4, "tipo": "Planeta rocoso",
+    "descripcion": "Conocido como el planeta rojo por el óxido de hierro de su superficie. Tiene volcanes enormes y cañones profundos.",
+    "curiosidad": "Alberga el Monte Olimpo, el volcán más alto conocido del sistema solar.",
+    "diametroKm": 6779, "distanciaSolMillonesKm": 227.9, "periodoOrbitalDias": 687,
+    "lunas": "2", "temperatura": "≈ -63 °C (media)", "colorHex": "#C1440E", "radioVisualM": 0.013
+  },
+  {
+    "id": "jupiter", "nombre": "Júpiter", "orden": 5, "tipo": "Gigante gaseoso",
+    "descripcion": "El planeta más grande del sistema solar, formado sobre todo por hidrógeno y helio.",
+    "curiosidad": "Su Gran Mancha Roja es una tormenta enorme, más ancha que la Tierra.",
+    "diametroKm": 139820, "distanciaSolMillonesKm": 778.5, "periodoOrbitalDias": 4333,
+    "lunas": "Más de 90", "temperatura": "≈ -108 °C (nubes superiores)", "colorHex": "#D8A66B", "radioVisualM": 0.045
+  },
+  {
+    "id": "saturno", "nombre": "Saturno", "orden": 6, "tipo": "Gigante gaseoso",
+    "descripcion": "Un gigante gaseoso famoso por su sistema de anillos, formados principalmente por hielo y roca.",
+    "curiosidad": "Su densidad media es menor que la del agua.",
+    "diametroKm": 116460, "distanciaSolMillonesKm": 1433.5, "periodoOrbitalDias": 10759,
+    "lunas": "Más de 140", "temperatura": "≈ -139 °C (nubes superiores)", "colorHex": "#E3CF8F", "radioVisualM": 0.040
+  },
+  {
+    "id": "urano", "nombre": "Urano", "orden": 7, "tipo": "Gigante helado",
+    "descripcion": "Un gigante helado de color azul verdoso, con una atmósfera que contiene metano.",
+    "curiosidad": "Gira prácticamente de lado: su eje está inclinado unos 98 grados.",
+    "diametroKm": 50724, "distanciaSolMillonesKm": 2872.5, "periodoOrbitalDias": 30687,
+    "lunas": "Más de 25", "temperatura": "≈ -197 °C (nubes superiores)", "colorHex": "#7FD1D8", "radioVisualM": 0.028
+  },
+  {
+    "id": "neptuno", "nombre": "Neptuno", "orden": 8, "tipo": "Gigante helado",
+    "descripcion": "El planeta más lejano del Sol, un gigante helado de color azul con los vientos más rápidos del sistema solar.",
+    "curiosidad": "Tarda unos 165 años terrestres en dar una vuelta completa al Sol.",
+    "diametroKm": 49244, "distanciaSolMillonesKm": 4495.1, "periodoOrbitalDias": 60190,
+    "lunas": "Más de 15", "temperatura": "≈ -201 °C (nubes superiores)", "colorHex": "#3F5FD6", "radioVisualM": 0.027
+  }
+]
